@@ -5,7 +5,7 @@
   "repository": "https://github.com/steedos/steedos-project-template.git",
   "description": "",
   "engines": {
-    "node": "^12.22.0"
+    "node": ">12"
   },
   "scripts": {
     "start": "yarn start:community",
